@@ -110,7 +110,7 @@
     .banner-content{
       width: 100%;
       border-radius: 16px;
-      background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%),url("./images/banner.png");
+      background: linear-gradient();
       height: 500px;
       background-position: center;
       background-repeat: no-repeat;
